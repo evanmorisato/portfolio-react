@@ -41,18 +41,6 @@ const JumbotronPage = () => {
         </Col>
 
       </Row>
-      {/* <Row className="text-center">
-        <Col>
-          <p class="rotatingText text-center">
-            I'm a &hellip;
-            <span class="rotatingText-adjective">Software Engineer</span>
-            <span class="rotatingText-adjective">Dog mom</span>
-            <span class="rotatingText-adjective">Nutella Addict</span>
-            <span class="rotatingText-adjective">perfect</span>
-            <span class="rotatingText-adjective">perfect</span>
-          </p>
-        </Col>
-      </Row> */}
     </Container>
   );
 };

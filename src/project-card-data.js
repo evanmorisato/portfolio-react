@@ -1,15 +1,3 @@
-// const ProjectCard = (props) => {
-//   const {
-//     projectPic,
-//     alt,
-//     cardTitle,
-//     description,
-//     techStack,
-//     githubUrl,
-//     deployedUrl,
-//     datePosted,
-//   } = props;
-
 export const cardList = [
   {
     "cardTitle": "Drinks On Us",
