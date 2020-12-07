@@ -11,6 +11,7 @@
     "font-mfizz": "^2.4.1",
     "framer": "^1.2.3",
     "framer-motion": "^1.11.1",
+    "loglevel": "^1.7.1",
     "mdbreact": "^4.27.0",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
