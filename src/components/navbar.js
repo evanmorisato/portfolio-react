@@ -1,5 +1,5 @@
 import React from "react";
-import { Navbar, Nav, Container, Row, Image } from "react-bootstrap";
+import { Navbar, Nav, Container, Row } from "react-bootstrap";
 import { Link } from "react-scroll"
 
 

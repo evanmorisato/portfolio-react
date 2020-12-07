@@ -2,10 +2,8 @@ import React from "react";
 import { MDBFooter } from "mdbreact";
 import Icon from "./icon";
 import Title from "./title";
-import ContactMeIcon from "./icons-contact-me";
 import { Container, Row, Col } from 'react-bootstrap';
 import SkillIcon from './icons-skills';
-import { motion } from 'framer-motion';
 
 const Footer = () => {
   return (

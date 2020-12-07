@@ -5,9 +5,7 @@ import "../node_modules/@fortawesome/fontawesome-free/css/all.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/font-mfizz/dist/font-mfizz.css";
 import "mdbreact/dist/css/mdb.css";
-import App from "./App";
 import * as serviceWorker from "./serviceWorker";
-import { BrowserRouter } from "react-router-dom";
 
 import Arrow from "./components/arrow";
 import SideBar from "./components/sidebar";

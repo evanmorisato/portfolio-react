@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { Container, Row, Col, Image } from "react-bootstrap";
 import Title from "./title";
-import ContactMeIcon from "./icons-contact-me";
 
 class AboutMe extends Component {
   state = {};

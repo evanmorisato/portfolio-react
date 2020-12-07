@@ -11,7 +11,6 @@ const ProjectCard = (props) => {
     techStack,
     githubUrl,
     deployedUrl,
-    datePosted,
   } = props;
 
   return (
