@@ -21,7 +21,7 @@ export const cardList = [
     "cardTitle": "Burger App",
     "projectPic": "/images/projects/burger2.png",
     "alt": "burger app",
-    "deployedUrl": "https://calm-lake-01040.herokuapp.com/",
+    "deployedUrl": "https://burgerevan.herokuapp.com/",
     "description": "A full stack, MVC (Model-View-Controller) application that allows you to create burgers (POST), view a list of burgers available to eat (GET), devour burgers (PUT), and throw them away after devoured (DELETE).",
     "techStack": "Handlebars, JavaScript, jQuery, mySQL, Node.js, Bootstrap, Express.js, ORM, HTML, CSS Heroku",
     "githubUrl": "https://github.com/evanmorisato/burger",
