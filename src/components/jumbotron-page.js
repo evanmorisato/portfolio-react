@@ -15,17 +15,7 @@ const JumbotronPage = () => {
           style={{
             fontSize: "7rem",
             color: "#ffffff",
-
-
             fontFamily: "Alice"
-            // "Alice",
-            // /* fontFamily: "Averia Serif Libre", cursive; */
-            /* fontFamily: "Be Vietnam", sans-serif; */
-            // =======Favorite=============
-            /* fontFamily: 'Overlock', cursive; */
-            // =================================
-            /* fontFamily: 'Secular One', sans-serif; */
-            /* fontFamily: 'Trocchi', serif; */
           }}
         >
           {/* Fade in of jumbotron name */}

@@ -22,8 +22,6 @@ const ProjectCard = (props) => {
         style={{ position: "relative" }}
       />
       <Card.Body style={{ height: "250px", backgroundColor: "#e6dbc9" }}>
-        {/* Card Hover Card.Body-- TODO
-        zIndex: +1, position: "relative", bottom: 225, margin: 0 */}
         <Card.Title style={{ fontSize: "27px", color: "#8cbcd0" }}>{cardTitle}</Card.Title>
         <Card.Text>{description}</Card.Text>
         <Card.Text style={{ fontSize: "17px" }}>{"Stack: "}<Card.Text>{techStack}</Card.Text></Card.Text>
