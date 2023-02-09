@@ -20,7 +20,7 @@ const ContactMeIcon = (props) => {
         iconPic="fab fa-twitter"
       />
       <Icon href="mailto:evanmorisato@gmail.com" alt="Email icon" iconPic="fas fa-envelope" />
-      <Icon href="Resume.pdf" alt="resume icon" iconPic="far fa-file" />
+      <Icon href="EvanMorisatoResume.docx" alt="resume icon" iconPic="far fa-file" />
     </div>
   );
 };
